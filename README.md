@@ -1,2 +1,2 @@
 # xmu
-厦门大学主页
+ [demo](https://zhangwanqin357.github.io/xmu/)
