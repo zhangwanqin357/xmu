@@ -1,2 +1,2 @@
 # xmu
- [xmu](https://zhangwanqin357.github.io/xmu/xmu.html)
+ [点击预览](https://zhangwanqin357.github.io/xmu/xmu.html)
